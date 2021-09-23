@@ -6,6 +6,10 @@ Ultralightweight JSON parser in ANSI C.
 
 Changes made to build with QNX 7.0/7.1.
 
+To download QNX binaries:
+
+https://github.com/lukechendev/cJSON/blob/master/libcjson.zip
+
 To build, run:
 ```
 source ~/qnx700/qnxsdp-env.sh
