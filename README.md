@@ -2,6 +2,16 @@
 
 Ultralightweight JSON parser in ANSI C.
 
+# Additional changes
+
+Changes made to build with QNX 7.0/7.1.
+
+To build, run:
+```
+source ~/qnx700/qnxsdp-env.sh
+make
+```
+
 ## Table of contents
 * [License](#license)
 * [Usage](#usage)
